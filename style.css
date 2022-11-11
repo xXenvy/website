@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+
+body {
+    background-color: #121212;
+    font-family: 'Sono', sans-serif;
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 3px 3px #303030;
+}
+
+h2 {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+h3 {
+    font-size: 50px;
+    margin-bottom: -5px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 24px;
+    color: #999696;
+}
+
+#github-link{
+    color: #666464;
+}
+
+#github-link:hover {
+    color: #312e75;
+}
